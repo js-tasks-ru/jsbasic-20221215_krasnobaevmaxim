@@ -12,7 +12,7 @@ function getMinMax(str) {
     if (a < b) { return -1; }
 
     return 0;
-  })
+  });
 
   let lastElementIndex = nums.length - 1; // Индекс последнего элемента на единицу меньше, чем длина массива
 
