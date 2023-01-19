@@ -1,5 +1,4 @@
 function toggleText() {
-  // ваш код...
   let toggleButton = document.querySelector('.toggle-text-button');
   let textElement = document.getElementById('text');
 
